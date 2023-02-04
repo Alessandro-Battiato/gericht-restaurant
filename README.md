@@ -1,2 +1,1 @@
-# gericht-restaurant
- 
+Gericht Restaurant is a modern web app about a luxury restaurant which offers a wide variety of meals and drinks, featuring also the chefs and a video showing how the resturant looks. This app has been created using React, but the styling has been applied from scratch, using pure vanilla CSS.
